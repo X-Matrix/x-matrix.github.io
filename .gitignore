@@ -3,6 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.jektex-cache
 
 # os
 .DS_Store
+

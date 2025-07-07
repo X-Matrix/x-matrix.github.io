@@ -27,13 +27,15 @@ url: "" # 你的站点 URL
 twitter_username: jekyllrb
 github_username: jekyll
 
-# 主题设置
-theme: no-style-please
+# 使用 remote_theme 而不是 theme
+# theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # 排除文件
 exclude:

@@ -82,9 +82,6 @@ $$
 $$
 
 ---
-
-# References
-
 {: data-content="footnotes"}
 [^1]: reference 1
 [^2]: reference 2

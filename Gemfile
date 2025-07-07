@@ -3,8 +3,8 @@ source "https://rubygems.org"
 # 使用 GitHub Pages gem 而不是直接使用 Jekyll
 gem "github-pages", group: :jekyll_plugins
 
-# 如果你想要使用 no-style-please 主题，确保它被正确引用并安装
-gem "no-style-please"
+# 正确引用 no-style-please 主题
+gem "no-style-please", git: "https://github.com/riggraz/no-style-please"
 
 # 插件
 group :jekyll_plugins do

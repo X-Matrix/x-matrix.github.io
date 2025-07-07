@@ -4,6 +4,8 @@ title: "Welcome to Jekyll!"
 categories: jekyll
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
@@ -76,4 +78,6 @@ From [亂數假文產生器 - Chinese Lorem Ipsum.](http://www.richyli.com/tool/
 
 $$e^{i\theta}=\cos(\theta)+i\sin(\theta)$$
 
-\[ \left[ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right] \Psi(\mathbf{r},t) \]
+$$
+\left[ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right] \Psi(\mathbf{r},t)
+$$

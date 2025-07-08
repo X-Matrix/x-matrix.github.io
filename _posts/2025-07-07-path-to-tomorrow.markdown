@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "未来之路"
-categories: jekyll
+categories: 随想
 mathjax: true
 ---
 

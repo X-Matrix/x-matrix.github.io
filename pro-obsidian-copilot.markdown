@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "obsidian-copilot"
-mathjax: true
 ---
 
-基于项目[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) 感谢原作者的贡献💙
+
+[该项目](https://github.com/X-Matrix/obsidian-copilot)基于[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) 迭代 感谢原作者的贡献💙
 
 
 基于自己的需求做了定制，主要包括几个方面：

@@ -13,6 +13,7 @@ entries:
     entries:
       - title: obsidian-copilot
         url: pro-obsidian-copilot.html
+      - title: TODO:LLMs+Stellarium+GOTO
 
   - title: rss
     url: feed.xml

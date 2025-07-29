@@ -26,6 +26,8 @@ DHH 提出的另一个关键点是：如果你总是在按 `Tab` 键（接受 AI
 2.  **采纳能理解的 AI 生成代码：** 对于看得懂、信得过的部分，直接采纳；
 3.  **调试并追问不理解的代码：** 遇到无法理解的生成代码，调试和追问，填补知识盲区。
 
+虽然IM如此方便，还是希望有一天，可以用蘸着绿墨水的钢笔写出一份纸质的信。
+
 ---
 {: data-content="footnotes"}
 [^1]: [DHH on AI, Vibe Coding and the Future of Programming](https://thenewstack.io/dhh-on-ai-vibe-coding-and-the-future-of-programming/)

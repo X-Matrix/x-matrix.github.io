@@ -4,7 +4,7 @@ title: "古典程序员"
 categories: 随想
 ---
 
-最近看了 David Heinemeier Hansson (DHH) 关于 Vibe Coding 的访谈[^1][^2]，颇有感触。DHH 是 Ruby on Rails 的创造者，也是 [37signals](https://37signals.com/) 的联合创始人（顺带一提，37signals 正是那家以《[重来](https://book.douban.com/subject/30184215/)》一书闻名的公司）。
+最近看了 David Heinemeier Hansson (DHH) 关于 Vibe Coding 的访谈[^1] [^2]，颇有感触。DHH 是 Ruby on Rails 的创造者，也是 [37signals](https://37signals.com/) 的联合创始人（顺带一提，37signals 正是那家以《[重来](https://book.douban.com/subject/30184215/)》一书闻名的公司）。
 
 从访谈中可以清晰地看到，DHH 绝非抗拒 AI 编程的老古董。他本人也在使用 AI 工具辅助编程。他提出的某些观点深得我心，我愿称他为“古典程序员”——其理念中蕴含着一种古典而厚重的美感。以下是几个引起我强烈共鸣的点：
 
@@ -31,4 +31,4 @@ DHH 提出的另一个关键点是：如果你总是在按 `Tab` 键（接受 AI
 ---
 {: data-content="footnotes"}
 [^1]: [DHH on AI, Vibe Coding and the Future of Programming](https://thenewstack.io/dhh-on-ai-vibe-coding-and-the-future-of-programming/)
-[^2]: [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting \\| Lex Fridman Podcast #474](https://www.youtube.com/watch?v=6b1a3d9c7f4)
+[^2]: [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting \\| Lex Fridman Podcast #474](https://www.youtube.com/watch?v=vagyIcmIGOQ)

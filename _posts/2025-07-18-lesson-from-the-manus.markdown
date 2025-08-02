@@ -37,7 +37,7 @@ Manus的Yichao最近发了一篇Blog[Context Engineering for AI Agents: Lessons 
 
 作为[有效加速主义支持者](https://zh.wikipedia.org/zh-hans/%E6%9C%89%E6%95%88%E5%8A%A0%E9%80%9F%E4%B8%BB%E7%BE%A9)，我完全相信在有生之年可以见到，但不是现在，理由是我们目前还没能做到完整反馈链路，让Agent真正自助工作。更多的是给出Meta方法，基于此使用模型和工具来完成任务，本质就是一种用自然语言描述的有一些容错弹性的工作流。Meta方法如何产生和迭代需要花大量的时间来解决,是通过上下文给到呢，还是利用RL构建一个内化的模型来实现？ The Bitter Lesson 中的教训是终极的教训，不过我们仍要活在当下，面对现实和客户。
 
-作为一个不构建模型的应用商，需要对领域内的知识有足够了解才能构建出好用的产品。比如，Cursor的好用是对于软件开发流程的理解和对CodeBase的解析，这（目前来说）就不是一个通用方案可以解决。
+作为一个不构建模型的应用商，需要对领域内的知识有足够了解才能构建出好用的产品。比如，Cursor的好用是对于软件开发流程的理解和对CodeBase的解析，这（目前来说）就不是一个通用方案可以解决。K2在通用性上做了不错的尝试，在post-training阶段加入了大量的Tools Use的数据[^3]。
 - 工程的能力：
 
 Agent系统本质还是一个系统，是系统就需要有设计，坏的设计会导致聪明的模型无法施展（社会系统也是如此）。很多工程上习以为常的方案，Agent的创业明星们可能要浪费1个月时间领悟。1个月领悟到了很聪明，但是为什么要浪费这一个月呢，你需要一个懂工程的同事。同时，Agent的构建链路长、环节隐蔽，模型本身容错性也不错，导致中间出了问题不会被轻易发现，这对工程能力的宽度也有更高的要求。
@@ -50,4 +50,4 @@ EOF
 
 [^1]: [Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 [^2]: [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-
+[^3]: [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)

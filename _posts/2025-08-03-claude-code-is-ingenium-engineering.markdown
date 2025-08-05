@@ -40,10 +40,7 @@ Claude Code火遍Youtube、X、知乎、B站，甚至小红书，哪哪都是她
     - 上下文管理是很优秀的，什么时候该压缩，怎么压缩，看起来做得挺好的，这部分需要重点学习下的，所有的Agent中这部分都不能避免。关于内容是用原生的好还是压缩好，其实也没有共识，需要更多的研究；
     - 记忆管理模块做的也很细致，个人理解，Agent中这部分数据其实是结构化的，需要也应该做更加精细的处理，比如只记录状态变更，而不是每次都记录全部内容。
 
-顺便提一句，Claude Code在多Agent的并发做得也没有很好，在[Claude Code best practices](https://www.youtube.com/watch?v=gv0WHhKelSE)演讲的答疑阶段也提到了这点。其难度在于，需要有一个中心化的管理协调模块来实现，这必然涉及到不同任务之间的冲突和撤回等，想象下你和同事的代码冲突就知道了。不过，在实践中可以尝试用[git-worktree](https://git-scm.com/docs/git-worktree)开多个feature分支来实现，没有实践过，但从工作原理上可行。   <span class=emoji>🤞</span>
-
-EOF
-
+顺便提一句，Claude Code在多Agent的并发做得也没有很好，在[Claude Code best practices](https://www.youtube.com/watch?v=gv0WHhKelSE)演讲的答疑阶段也提到了这点。其难度在于，需要有一个中心化的管理协调模块来实现，这必然涉及到不同任务之间的冲突和撤回等，想象下你和同事的代码冲突就知道了。不过，在实践中可以尝试用[git-worktree](https://git-scm.com/docs/git-worktree)开多个feature分支来实现，没有实践过，但从工作原理上可行。
 
 ---
 {: data-content="footnotes"}

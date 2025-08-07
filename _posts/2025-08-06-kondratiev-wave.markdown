@@ -50,7 +50,7 @@ categories: 社经
 - 为什么有时候房价、股市会经历长时间的上涨或下跌？
 - 为什么有些技术会改变整个社会的面貌？
 
-当下周期需要关注什么？<span class=emoji>😺</span> 我不知道啊 <span class=emoji>😺</span>，所有我没发财<span class=emoji>😂</span>。但可以关注的点：
+当下周期需要关注什么？<span class=emoji>😺</span> 我不知道啊 <span class=emoji>😺</span>，所以我没发财<span class=emoji>😂</span>。但可以关注的点：
 - AI 相关的技术和产业，这个属于上一轮的余波
 - 中心化的加密货币（稳定币[^5]）
 - 心理健康，AI的进步带来的心理健康问题，[UBI](https://en.wikipedia.org/wiki/Universal_basic_income)只是带来生理健康的进步，对心理健康的提升不大[^6]，我们要想办法让自己更快乐。

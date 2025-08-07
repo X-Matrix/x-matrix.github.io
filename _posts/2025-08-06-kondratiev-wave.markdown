@@ -58,9 +58,9 @@ categories: 社经
 
 ---
 {: data-content="footnotes"}
-[^1]: https://en.wikipedia.org/wiki/Kondratiev_wave
+[^1]: [https://en.wikipedia.org/wiki/Kondratiev_wave](https://en.wikipedia.org/wiki/Kondratiev_wave)
 [^2]: Nefiodow, Leo; Nefiodow, Simone (2014): The Sixth Kondratieff. A New Long Wave in the Global Economy. Charleston 2014, ISBN 978-1-4961-4038-8.
-[^3]: https://en.wikipedia.org/wiki/Georgism
-[^4]: https://en.wikipedia.org/wiki/Debt_deflation
-[^5]: https://zh.wikipedia.org/zh-hans/%E7%A8%B3%E5%AE%9A%E5%B8%81
-[^6]: https://36kr.com/p/2877430242988933
+[^3]: [https://en.wikipedia.org/wiki/Georgism](https://en.wikipedia.org/wiki/Georgism)
+[^4]: [https://en.wikipedia.org/wiki/Debt_deflation](https://en.wikipedia.org/wiki/Debt_deflation)
+[^5]: [https://zh.wikipedia.org/zh-hans/稳定币](https://zh.wikipedia.org/zh-hans/%E7%A8%B3%E5%AE%9A%E5%B8%81)
+[^6]: [https://36kr.com/p/2877430242988933](https://36kr.com/p/2877430242988933)

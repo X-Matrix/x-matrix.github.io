@@ -14,7 +14,7 @@ categories: 科技
 - 网页
 
 {% raw %}
-<div style="aspect-ratio: 3 / 2; width: 100%; max-width: 100vw; overflow: hidden;">
+<div style="aspect-ratio: 1 / 1; width: 100%; max-width: 100vw; overflow: hidden;">
   <iframe src="https://calculatingempires.net/" style="width:100%; height:100%; border:0;" allowfullscreen></iframe>
 </div>
 <div style="text-align: right; margin-top: 0.5em;">

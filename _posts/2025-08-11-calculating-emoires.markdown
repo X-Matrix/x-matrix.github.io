@@ -35,6 +35,8 @@ categories: 科技
 
 更多的信息可以在[官网](https://calculatingempires.net/info)上找到。
 
+此外，这个网站是有源码和原图的，地址在[NYUEngelberg/calculating-empires](https://github.com/NYUEngelberg/calculating-empires)，不清楚是不是涉及版权问题，谨慎使用吧。
+
 ---
 {: data-content="footnotes"}
 [^1]: [https://ars.electronica.art/starts-prize/en/calculating-empires/](https://ars.electronica.art/starts-prize/en/calculating-empires/)

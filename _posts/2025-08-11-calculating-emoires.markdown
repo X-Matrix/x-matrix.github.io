@@ -37,6 +37,10 @@ categories: 科技
 
 此外，这个网站是有源码和原图的，地址在[NYUEngelberg/calculating-empires](https://github.com/NYUEngelberg/calculating-empires)，不清楚是不是涉及版权问题，谨慎使用吧。
 
+在这个项目基础上增加了OCR识别，当鼠标移到对应的图上时，会显示对应的文字信息，可以快速跳转到Wikipedia或者搜索引擎。项目地址[X-Matrix/calculating-empires](https://github.com/X-Matrix/calculating-empires)。
+
+<span class="emoji">❤️🏛️˙✧˖</span>
+
 ---
 {: data-content="footnotes"}
 [^1]: [https://ars.electronica.art/starts-prize/en/calculating-empires/](https://ars.electronica.art/starts-prize/en/calculating-empires/)

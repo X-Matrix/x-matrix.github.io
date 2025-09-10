@@ -4,7 +4,7 @@ title: "未来的编程语言"
 categories: CS
 ---
 
-在《黑客与画家》中，保罗·格雷厄姆（Paul Graham）有一篇《未来的编程语言》（[The Hundred-Year Language](https://paulgraham.com/hundred.html) ）描述了他对未来的编程语言的看法，文章有点长，主要的观点如下：
+在《黑客与画家》中，保罗·格雷厄姆（Paul Graham）有一篇《一百年后的编程语言》（[The Hundred-Year Language](https://paulgraham.com/hundred.html) ）描述了他对未来的编程语言的看法，文章有点长，主要的观点如下：
 
 1. 编程语言像生物一样进化
     - 有些语言是“进化死胡同”，比如 COBOL，Java 可能也是。
